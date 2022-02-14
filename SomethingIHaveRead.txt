@@ -1,0 +1,3 @@
+I am currently working on an iOS app and, being completely new to the swift programming language, didn't know how to make external api calls with swift code. With some quick googling I found a blog post on freecodecamp.org on how to make web requests within swift code. The post goes on about how to set up the request, how to invoke it, and what sorts of data you'll get after the request has been completed. I personally found this post better than the swift documentation itself as it was easy to read and very thorough in its explanations. I would reccomend this blog post to anyone who is new to swift and is looking for simple explanations on how to set up external api calls.
+
+https://www.freecodecamp.org/news/how-to-make-your-first-api-call-in-swift/

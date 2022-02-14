@@ -1,0 +1,64 @@
+html {
+  height:100%;
+  background: linear-gradient(rgb(255, 187, 59), rgb(223, 190, 84));
+
+}
+
+th {
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: white;
+  border-bottom: 2px solid black;
+
+}
+
+tr {
+  text-align: center;
+  border: 2px solif black;
+}
+
+table {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  table-layout: fixed;
+  border: 2px solid black;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: orange;
+}
+
+tbody tr:nth-child(even) {
+  background-color: yellow;
+}
+
+.title {
+  text-align: left;
+}
+
+.addProvider {
+  background-color: rgb(2, 39, 158);
+  color: white;
+  margin-right: auto;
+}
+
+form {
+  float: right;
+  margin-bottom: 2em;
+  display: inline-block;
+  margin-top: -3em;
+
+}
+
+input {
+  padding-right: 10px;
+}
+
+span {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  display: inline-block;
+  margin-bottom: 2em;
+}
